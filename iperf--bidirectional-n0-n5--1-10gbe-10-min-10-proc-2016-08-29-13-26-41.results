@@ -1,0 +1,72 @@
+Connecting to host rhosd5, port 5201
+[  4] local 172.18.175.31 port 53335 connected to 172.18.175.38 port 5201
+[  6] local 172.18.175.31 port 53336 connected to 172.18.175.38 port 5201
+[  8] local 172.18.175.31 port 53337 connected to 172.18.175.38 port 5201
+[ 10] local 172.18.175.31 port 53338 connected to 172.18.175.38 port 5201
+[ 12] local 172.18.175.31 port 53339 connected to 172.18.175.38 port 5201
+[ 14] local 172.18.175.31 port 53340 connected to 172.18.175.38 port 5201
+[ 16] local 172.18.175.31 port 53341 connected to 172.18.175.38 port 5201
+[ 18] local 172.18.175.31 port 53342 connected to 172.18.175.38 port 5201
+[ 20] local 172.18.175.31 port 53343 connected to 172.18.175.38 port 5201
+[ 22] local 172.18.175.31 port 53344 connected to 172.18.175.38 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-60.00  sec  6.59 GBytes   944 Mbits/sec   38    574 KBytes       
+[  6]   0.00-60.00  sec  6.58 GBytes   943 Mbits/sec   33    829 KBytes       
+[  8]   0.00-60.00  sec  6.58 GBytes   941 Mbits/sec   30    829 KBytes       
+[ 10]   0.00-60.00  sec  6.57 GBytes   941 Mbits/sec   42    591 KBytes       
+[ 12]   0.00-60.00  sec  6.58 GBytes   943 Mbits/sec   49    744 KBytes       
+[ 14]   0.00-60.00  sec  6.58 GBytes   942 Mbits/sec   24    829 KBytes       
+[ 16]   0.00-60.00  sec  6.58 GBytes   942 Mbits/sec    8    650 KBytes       
+[ 18]   0.00-60.00  sec  6.58 GBytes   943 Mbits/sec    8    829 KBytes       
+[ 20]   0.00-60.00  sec  6.59 GBytes   944 Mbits/sec   30    765 KBytes       
+[ 22]   0.00-60.00  sec  6.55 GBytes   937 Mbits/sec   25    829 KBytes       
+[SUM]   0.00-60.00  sec  65.8 GBytes  9.42 Gbits/sec  287             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  4]  60.00-120.00 sec  6.58 GBytes   942 Mbits/sec    0    574 KBytes       
+[  6]  60.00-120.00 sec  6.58 GBytes   942 Mbits/sec    0    829 KBytes       
+[  8]  60.00-120.00 sec  6.58 GBytes   942 Mbits/sec    0    829 KBytes       
+[ 10]  60.00-120.00 sec  6.57 GBytes   941 Mbits/sec    0    591 KBytes       
+[ 12]  60.00-120.00 sec  6.58 GBytes   942 Mbits/sec    0    744 KBytes       
+[ 14]  60.00-120.00 sec  6.57 GBytes   941 Mbits/sec    0    829 KBytes       
+[ 16]  60.00-120.00 sec  6.58 GBytes   942 Mbits/sec    0    650 KBytes       
+[ 18]  60.00-120.00 sec  6.57 GBytes   940 Mbits/sec    0    829 KBytes       
+[ 20]  60.00-120.00 sec  6.58 GBytes   942 Mbits/sec    0    765 KBytes       
+[ 22]  60.00-120.00 sec  6.57 GBytes   940 Mbits/sec    0    829 KBytes       
+[SUM]  60.00-120.00 sec  65.8 GBytes  9.41 Gbits/sec    0             
+^C- - - - - - - - - - - - - - - - - - - - - - - - -
+[  4] 120.00-144.24 sec  2.66 GBytes   942 Mbits/sec    0    574 KBytes       
+[  6] 120.00-144.24 sec  2.66 GBytes   942 Mbits/sec    0    829 KBytes       
+[  8] 120.00-144.24 sec  2.66 GBytes   942 Mbits/sec    0    829 KBytes       
+[ 10] 120.00-144.24 sec  2.65 GBytes   941 Mbits/sec    0    591 KBytes       
+[ 12] 120.00-144.24 sec  2.66 GBytes   942 Mbits/sec    0    744 KBytes       
+[ 14] 120.00-144.24 sec  2.65 GBytes   940 Mbits/sec    0    829 KBytes       
+[ 16] 120.00-144.24 sec  2.66 GBytes   942 Mbits/sec    0    650 KBytes       
+[ 18] 120.00-144.24 sec  2.65 GBytes   941 Mbits/sec    0    829 KBytes       
+[ 20] 120.00-144.24 sec  2.66 GBytes   942 Mbits/sec    0    765 KBytes       
+[ 22] 120.00-144.24 sec  2.65 GBytes   940 Mbits/sec    0    829 KBytes       
+[SUM] 120.00-144.24 sec  26.6 GBytes  9.41 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-144.24 sec  15.8 GBytes   943 Mbits/sec   38             sender
+[  4]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[  6]   0.00-144.24 sec  15.8 GBytes   942 Mbits/sec   33             sender
+[  6]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[  8]   0.00-144.24 sec  15.8 GBytes   942 Mbits/sec   30             sender
+[  8]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[ 10]   0.00-144.24 sec  15.8 GBytes   941 Mbits/sec   42             sender
+[ 10]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[ 12]   0.00-144.24 sec  15.8 GBytes   942 Mbits/sec   49             sender
+[ 12]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[ 14]   0.00-144.24 sec  15.8 GBytes   941 Mbits/sec   24             sender
+[ 14]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[ 16]   0.00-144.24 sec  15.8 GBytes   942 Mbits/sec    8             sender
+[ 16]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[ 18]   0.00-144.24 sec  15.8 GBytes   941 Mbits/sec    8             sender
+[ 18]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[ 20]   0.00-144.24 sec  15.8 GBytes   943 Mbits/sec   30             sender
+[ 20]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[ 22]   0.00-144.24 sec  15.8 GBytes   939 Mbits/sec   25             sender
+[ 22]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+[SUM]   0.00-144.24 sec   158 GBytes  9.42 Gbits/sec  287             sender
+[SUM]   0.00-144.24 sec  0.00 Bytes  0.00 bits/sec                  receiver
+iperf3: interrupt - the client has terminated
